@@ -96,3 +96,8 @@ msg.qy.net
 msg.video.dns.iqiyi.com
 msg-intl.qy.net
 msgv6.qy.net
+
+file2.speedtest.cn
+tisu-api.speedtest.cn
+
+ken641228.inin.news
